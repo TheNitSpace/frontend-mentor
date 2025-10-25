@@ -22,7 +22,7 @@ section {
     justify-content: space-between;
     text-align: center;
     gap: 1rem;
-    width: 400px;
+    width: 23rem;
 }
 
 img{
@@ -65,7 +65,7 @@ p{
 
 @media (max-width: 375px) {
     section{
-        padding: 0rem 0rem;
+        padding: 0 0;
         width: 300px;
     }
 }
